@@ -1,0 +1,9 @@
+						
+Módulo de cálculo de Cubage para Joomla! 3.0 - INSTALAÇÃO -
+
+1) Entre na área administrativa do seu site, clique em extensions( extensões ), depois em manage extensions (administrar extensões).
+
+2) na área de administração de extensões, clique no caminho e encontre o módulo que deve estar comprimido(.zip), após isto clique em "upload and install".
+
+3) na aba Extensões selecione a aba Administrar módulos, clique em "Calc Cubage" ( este é o módulo de cálculo de cubage ), publique-o, selecione a posição que você deseja que ele seja mostrado no template, e após isso na aba atribuir menú, ainda dentro do módulo, selecione as áreas que você deseja que o módulo seja exibido.
+
