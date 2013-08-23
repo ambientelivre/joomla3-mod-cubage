@@ -1,0 +1,67 @@
+body {
+	font: 12px Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+h3{
+	text-align: left;
+}
+
+form{
+	text-align: center;
+}
+
+.link_cubage {
+	text-align: center;
+}
+
+.inputcubage { 
+	background-color: #B0E0E6; 
+	font: 12px verdana, arial, helvetica, sans-serif;
+	color:#003399;
+	border:1px solid #000099;
+	height:14px;
+	width:70px
+}
+
+.inputshadow {
+	background-color: #B0E0E6; 
+	font: 12px verdana, arial, helvetica, sans-serif;
+	color:#003333;
+	border:1px solid #000099;
+	height:14px;
+	width:70px
+}
+
+.cubagebuttom  {
+	background-color: #B0E0E6; 
+	font: 12px verdana, arial, helvetica, sans-serif;
+	font-weight:bold;
+	color:#003399;
+	border:1px solid #000099;
+	text-align: left;
+}
+
+.buttomlinha {
+	background-color: #FFFFFF; 
+	font: 12px verdana, arial, helvetica, sans-serif;
+	color:#003399;
+	border:0px ;
+	text-align: left;
+}
+
+.box {
+	text-align: left;
+}
+
+.divcubage {
+	color:#003399;
+	font: 13px verdana, arial, helvetica, sans-serif;
+	font-weight:bold;
+	border:1px solid #000099;
+}
+

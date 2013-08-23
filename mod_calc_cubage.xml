@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="module" version="2.5.6" client="site" method="upgrade">	
+<name>Calc Cubage</name>
+<author>Rafaela Raganhan - Ambiente Livre Tecnologia</author>
+<creationDate>02/02/2011</creationDate>
+<license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
+<authorEmail>rafaela@ambientelivre.com.br</authorEmail>
+<authorUrl>http://www.ambientelivre.com.br/</authorUrl>
+<version>1.0</version>
+<description>
+
+<![CDATA[
+
+Description:
+Modulo Calc Cubage
+
+* Instale o módulo em seu web-site
+* acesso o administrador e configure os parametros
+* Ative o modulo
+* Desenvolvido pela Ambiente Livre tecnologia - www.ambientelivre.com.br 
+]]>
+
+</description> 
+
+<files>
+      	<filename module="mod_calc_cubage">mod_calc_cubage.php</filename>  
+		<filename>images/box.png</filename>
+		<filename>images/ambientelivre.png</filename>
+		<filename>js/jquery.js</filename>	
+		<filename>js/cubage.js</filename>	
+		<filename>css/style.css</filename>	
+		<filename>png_fix/iepngfix.htc</filename>
+</files>
+  <params>
+  	<param name="@spacer" type="spacer" default="" label="" description="" />  
+   	<param name="link1" type="text" size= "50" default="" label="Link 1" description="Image 1" />
+	<param name="testo_link1" type="text" default="" label="Texto Link 1" description="Text Link 1" />
+  	<param name="@spacer" type="spacer" default="" label="" description="" />
+	<param name="link2" type="text" size= "50" default="" label="Link 2" description="Image 2" />
+	<param name="testo_link2" type="text" default="" label="Texto Link 2" description="Text link 2" />
+	<param name="@spacer" type="spacer" default="" label="" description="" />
+	<param name="link3" type="text" size= "50" default="" label="Link 3" description="Image 3" />
+	<param name="testo_link3" type="text" default="" label="Texto Link 3" description="Text link 3" />
+	<param name="@spacer" type="spacer" default="" label="" description="" />
+	<param name="link4" type="text" size= "50" default="" label="Link 4" description="Image 4" />
+	<param name="testo_link4" type="text" default="" label="Texto Link 4" description="Text link 4" />
+	<param name="@spacer" type="spacer" default="" label="" description="" />
+	<param name="value_cubage" type="text" size= "10" default="" label="Valor de calculo" description="Valor médio para calculo de cubage" />
+  </params>
+</extension>		
